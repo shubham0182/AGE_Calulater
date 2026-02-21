@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 A[Start]
 A --> B[Import Libraries]
@@ -9,3 +10,4 @@ E -- Yes --> F[Get Today Date]
 F --> G[Calculate Age]
 G --> H[Show Result]
 H --> I[End]
+```
